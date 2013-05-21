@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Eideo Blog 
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
